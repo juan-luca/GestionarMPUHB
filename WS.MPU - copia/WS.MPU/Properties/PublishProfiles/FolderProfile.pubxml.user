@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Publish\Backend</_PublishTargetUrl>
+    <History>True|2024-09-24T01:28:42.1516952Z;True|2024-09-09T20:18:18.9376573-03:00;True|2024-09-09T19:45:26.0716209-03:00;True|2024-09-09T19:31:02.5112529-03:00;True|2024-09-05T19:33:39.0000770-03:00;True|2024-04-30T11:50:11.5298844-03:00;True|2024-01-17T09:54:11.0485967-03:00;True|2024-01-11T17:25:33.0630624-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ANSESMAPA.WS.CRUD.Datos.dll">
+      <publishTime>04/30/2024 11:50:04</publishTime>
+    </File>
+    <File Include="bin/ANSESMAPA.WS.CRUD.Datos.pdb">
+      <publishTime>04/30/2024 11:50:04</publishTime>
+    </File>
+    <File Include="bin/ANSESMAPA.WS.CRUD.Negocio.dll">
+      <publishTime>04/30/2024 11:50:05</publishTime>
+    </File>
+    <File Include="bin/ANSESMAPA.WS.CRUD.Negocio.pdb">
+      <publishTime>04/30/2024 11:50:05</publishTime>
+    </File>
+    <File Include="bin/IBM.Data.DB2.dll">
+      <publishTime>06/17/2020 14:07:06</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>03/15/2024 08:57:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>07/08/2020 18:52:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/18/2020 22:51:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/18/2020 22:51:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/18/2020 22:40:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/18/2020 22:52:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>05/18/2020 22:52:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/18/2020 22:40:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/18/2020 22:47:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/18/2020 22:51:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/18/2020 22:51:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/18/2020 22:49:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/18/2020 22:49:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/18/2020 22:50:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/18/2020 22:40:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/04/2017 22:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/04/2017 22:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>05/18/2020 22:40:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/18/2020 22:40:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Buffers.dll">
+      <publishTime>07/19/2017 14:01:28</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/15/2018 17:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Memory.dll">
+      <publishTime>04/17/2019 20:24:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Numerics.Vectors.dll">
+      <publishTime>07/19/2017 14:01:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/15/2018 17:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>11/15/2019 13:37:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/29/2018 20:39:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>06/18/2019 16:08:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/18/2020 22:50:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/18/2020 22:50:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/18/2020 22:40:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/18/2020 22:52:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/18/2020 22:52:02</publishTime>
+    </File>
+    <File Include="bin/WS.MAPA.GestionarWebService.dll">
+      <publishTime>04/30/2024 11:50:07</publishTime>
+    </File>
+    <File Include="bin/WS.MAPA.GestionarWebService.pdb">
+      <publishTime>04/30/2024 11:50:07</publishTime>
+    </File>
+    <File Include="bin/WS.MPU.Datos.dll">
+      <publishTime>09/23/2024 22:28:40</publishTime>
+    </File>
+    <File Include="bin/WS.MPU.Datos.pdb">
+      <publishTime>09/23/2024 22:28:40</publishTime>
+    </File>
+    <File Include="bin/WS.MPU.GestionarMPU.dll">
+      <publishTime>09/23/2024 22:28:41</publishTime>
+    </File>
+    <File Include="bin/WS.MPU.GestionarMPU.pdb">
+      <publishTime>09/23/2024 22:28:41</publishTime>
+    </File>
+    <File Include="bin/WS.MPU.Negocio.dll">
+      <publishTime>09/23/2024 22:28:41</publishTime>
+    </File>
+    <File Include="bin/WS.MPU.Negocio.pdb">
+      <publishTime>09/23/2024 22:28:41</publishTime>
+    </File>
+    <File Include="BuscadorCatalogo.asmx">
+      <publishTime>04/30/2024 11:34:10</publishTime>
+    </File>
+    <File Include="GestionarMPU.asmx">
+      <publishTime>08/15/2024 19:45:44</publishTime>
+    </File>
+    <File Include="GestionarWebService.asmx">
+      <publishTime>04/30/2024 11:34:10</publishTime>
+    </File>
+    <File Include="GestionarWebSite.asmx">
+      <publishTime>04/30/2024 11:34:10</publishTime>
+    </File>
+    <File Include="Log4net.config">
+      <publishTime>04/30/2024 11:34:10</publishTime>
+    </File>
+    <File Include="ProyectarEstadisticas.asmx">
+      <publishTime>04/30/2024 11:34:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/23/2024 22:28:41</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
