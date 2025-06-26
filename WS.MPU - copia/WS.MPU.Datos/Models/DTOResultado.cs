@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WS.MPU.Datos.Models
+namespace WS.MPUHB.Datos.Models
 {
-    internal class DTOResultado
+    public class Resultado
     {
+        public short Codigo { get; set; }
+        public string Mensaje { get; set; }
     }
 }

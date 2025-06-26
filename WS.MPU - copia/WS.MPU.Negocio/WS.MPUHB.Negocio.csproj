@@ -78,9 +78,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WS.MPU.Datos\WS.MPU.Datos.csproj">
+    <ProjectReference Include="..\WS.MPU.Datos\WS.MPUHB.Datos.csproj">
       <Project>{bdc9ddae-f389-4cf7-93bb-e81f6e72f767}</Project>
-      <Name>WS.MPU.Datos</Name>
+      <Name>WS.MPUHB.Datos</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

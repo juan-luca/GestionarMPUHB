@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32602.291
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS.MPU.Datos", "WS.MPU.Datos\WS.MPU.Datos.csproj", "{BDC9DDAE-F389-4CF7-93BB-E81F6E72F767}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS.MPUHB.Datos", "WS.MPU.Datos\WS.MPUHB.Datos.csproj", "{BDC9DDAE-F389-4CF7-93BB-E81F6E72F767}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS.MPU.Negocio", "WS.MPU.Negocio\WS.MPU.Negocio.csproj", "{E04E6232-51DF-4743-A598-A62F1CB0916C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS.MPUHB.Negocio", "WS.MPU.Negocio\WS.MPUHB.Negocio.csproj", "{E04E6232-51DF-4743-A598-A62F1CB0916C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS.MPU", "WS.MPU\WS.MPU.csproj", "{AB19659F-63CA-46CB-B277-1A36A8F09F90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS.MPUHB", "WS.MPU\WS.MPUHB.csproj", "{AB19659F-63CA-46CB-B277-1A36A8F09F90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

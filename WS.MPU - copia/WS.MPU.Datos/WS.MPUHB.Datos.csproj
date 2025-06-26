@@ -73,11 +73,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Connection.cs" />
-    <Compile Include="GestionarMPUDatos.cs" />
+    <Compile Include="GestionarMPUHBDatos.cs" />
     <Compile Include="Models\DTOAgencia.cs" />
     <Compile Include="Models\DTOApoderado.cs" />
     <Compile Include="Models\DTOBanco.cs" />
     <Compile Include="Models\DTOMedioDePago.cs" />
+    <Compile Include="Models\DTOResultado.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
